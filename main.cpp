@@ -7,7 +7,8 @@ using namespace std;
 //function for priority
 int main(void){
 
-    cout<<"hello world";
+    cout<<"hello world"<<endl;
+    cout<<"welcome to my program";
     
 return 0;
 }
