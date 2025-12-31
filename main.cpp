@@ -8,7 +8,9 @@ using namespace std;
 int main(void){
 
     cout<<"hello world"<<endl;
-    cout<<"welcome to my program";
+    cout<<"welcome to my program";<<endl;
+    cout<<"This is something random"<<endl;
+    cout<<"Adding more lines to test git"<<endl;
     
 return 0;
 }
